@@ -7,5 +7,6 @@ public class Person {
     public void eat(){
         System.out.println("eat");
         System.out.println("eat hot-fix");
+        System.out.println("eat hot-fix2");
     }
 }
