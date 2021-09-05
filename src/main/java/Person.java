@@ -8,5 +8,6 @@ public class Person {
         System.out.println("eat");
         System.out.println("eat hot-fix");
         System.out.println("eat hot-fix2");
+        System.out.println("eat remote");
     }
 }
